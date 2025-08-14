@@ -1,6 +1,6 @@
 ## 关于我
 
-热爱开源，专注于 Home Assistant 的本土化与推广。
+开源界的一个混子，致力于 Home Assistant 的本土化与推广。
 
 - 🌐 个人网站：[https://www.hasscn.top](https://www.hasscn.top/)
 - 🚀 Home Assistant OS 极速版：[GitHub 项目](https://github.com/ha-china/HAOS-CN)
