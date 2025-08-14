@@ -7,4 +7,4 @@
 - 📦 我的加载项源：[Gitee 地址](https://gitee.com/desmond_GT/hassio-addons)
 - 📢 我的微信公众号：老王杂谈说
 
-![微信公众号二维码](https://gitee.com/desmond_GT/hassio-addons/raw/main/WeChat_QRCode.png)
+![微信公众号二维码](https://raw.githubusercontent.com/Desmond-Dong/hassio-addons/refs/heads/main/WeChat_QRCode.png)
