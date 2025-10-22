@@ -6,10 +6,8 @@
 - 🚀 **极速版 Home Assistant OS**：[GitHub 项目](https://github.com/ha-china/HAOS-CN)
 - 📦 **加载项仓库**：[Gitee 地址](https://gitee.com/desmond_GT/hassio-addons)
 - 📢 **微信公众号**：老王杂谈说  
-  <br>
-  <img src="https://raw.githubusercontent.com/ha-china/hassio-addons/refs/heads/main/WeChat_QRCode.png" alt="微信公众号二维码" width="400">
 
-如有交流与合作意向，欢迎通过网站或公众号联系我。
+如有交流意向，欢迎通过网站或公众号联系我。
 
 ---
 
@@ -24,4 +22,4 @@ Passionate about open source, dedicated to the localization and promotion of Hom
   <br>
   <img src="https://raw.githubusercontent.com/ha-china/hassio-addons/refs/heads/main/WeChat_QRCode.png" alt="WeChat QR Code" width="400">
 
-For collaboration or communication, feel free to contact me via website or WeChat account.
+For communication, feel free to contact me via website or WeChat account.
